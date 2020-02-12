@@ -1,3 +1,5 @@
 # projectprofile
 
-## Pr
+## Project setup
+```
+npm in
