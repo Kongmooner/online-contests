@@ -5,4 +5,4 @@
 npm install
 ```
 
-### Compiles
+### Compiles and hot-reloads for dev
