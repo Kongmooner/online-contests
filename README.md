@@ -10,4 +10,6 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifie
+### Compiles and minifies for production
+```
+n
