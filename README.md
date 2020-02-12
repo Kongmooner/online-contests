@@ -2,4 +2,7 @@
 
 ## Project setup
 ```
-npm in
+npm install
+```
+
+### Compiles
