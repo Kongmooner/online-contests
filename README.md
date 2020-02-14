@@ -20,4 +20,5 @@ npm run build
 npm run lint
 ```
 
-### Customize con
+### Customize configuration
+See [Con
