@@ -1,1 +1,3 @@
-modul
+module.exports = {
+  presets: [
+    '@vu
