@@ -7,4 +7,5 @@
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },
-  "dependencies":
+  "dependencies": {
+    "core-js": "^3.6.5
