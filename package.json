@@ -14,4 +14,5 @@
     "vuetify": "^2.2.11",
     "vuex": "^3.4.0"
   },
-  "de
+  "devDependencies": {
+    "@mdi
