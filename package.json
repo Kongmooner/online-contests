@@ -15,4 +15,5 @@
     "vuex": "^3.4.0"
   },
   "devDependencies": {
-    "@mdi
+    "@mdi/font": "^5.3.45",
+  
