@@ -19,4 +19,5 @@
     "@vue/cli-plugin-babel": "~4.4.0",
     "@vue/cli-plugin-eslint": "~4.4.0",
     "@vue/cli-plugin-router": "~4.4.0",
-    "@vue/cli-plugin
+    "@vue/cli-plugin-vuex": "~4.4.0",
+    "@v
