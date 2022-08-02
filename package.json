@@ -28,4 +28,5 @@
     "sass-loader": "^8.0.0",
     "vue-cli-plugin-vuetify": "~2.0.6",
     "vue-template-compiler": "^2.6.11",
-    "vuetif
+    "vuetify-loader": "^1.3.0"
+  
