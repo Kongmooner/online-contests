@@ -33,3 +33,33 @@ export default {
   
   components: {
   },
+
+  data: () => ({
+    sName: 'Pruthvi Vikram',
+    panes: [
+      {"name": "Profile", "icon": "mdi-account"},
+      {"name": "Grades", "icon": "mdi-account"},
+      {"name": "Courses", "icon": "mdi-account"},
+      {"name": "Discussion forum", "icon": "mdi-account"},
+      {"name": "Logout", "icon": "mdi-account"}
+    ]
+  }),
+};
+</script>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Yellowtail&display=swap');
+
+  /* Hide scrollbar for Chrome, Safari and Opera */
+  body::-webkit-scrollbar {
+    display: none;
+  }
+
+  /* Hide scrollbar for IE, Edge and Firefox */
+  body {
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+  }
+
+  img.profile{
+    border-radius: 100px;
+  }
