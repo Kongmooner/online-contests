@@ -15,3 +15,21 @@
                 </v-row>
                 <v-row v-for="item in panes" :key="item.id" cols="12" justify="left" class="text-sm-center py-2" flat>
                       <VBtn text width="100%" ><v-icon small left>{{item.icon}}</v-icon> {{ item.name }}</VBtn>
+                </v-row>
+            </v-col>
+        </v-container>
+    </VNavigationDrawer>
+
+    <v-content>
+      <router-view class="px-5 pt-2"></router-view>
+    </v-content>
+  </v-app>
+</template>
+
+<script>
+
+export default {
+  name: 'App',
+  
+  components: {
+  },
