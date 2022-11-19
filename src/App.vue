@@ -63,3 +63,5 @@ export default {
   img.profile{
     border-radius: 100px;
   }
+
+</style>
