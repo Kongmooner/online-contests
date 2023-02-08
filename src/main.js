@@ -1,1 +1,2 @@
-import Vue from
+import Vue from 'vue'
+import App 
