@@ -1,3 +1,4 @@
 import Vue from 'vue'
 import App from './App.vue'
-import router
+import router from './router'
+import stor
