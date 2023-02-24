@@ -10,3 +10,10 @@ export default new Vuetify({
       },
     theme: {
         themes: {
+            light: {
+                primary : '004c4c',
+                heading: 'white'
+            }
+        }
+    }
+});
