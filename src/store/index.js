@@ -3,4 +3,5 @@ import Vuex from 'vuex'
 
 Vue.use(Vuex)
 
-export default 
+export default new Vuex.Store({
+  state:
