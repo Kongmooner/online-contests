@@ -10,4 +10,6 @@ export default new Vuex.Store({
   },
   actions: {
   },
-  mod
+  modules: {
+  }
+})
