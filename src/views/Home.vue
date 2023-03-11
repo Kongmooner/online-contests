@@ -1,2 +1,7 @@
 <template>
-  <div class="hom
+  <div class="home">
+
+  </div>
+</template>
+
+<sc
