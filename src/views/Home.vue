@@ -5,4 +5,7 @@
 </template>
 
 <script>
-// @ is an alias to /sr
+// @ is an alias to /src
+
+export default {
+  
