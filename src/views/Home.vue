@@ -4,4 +4,5 @@
   </div>
 </template>
 
-<sc
+<script>
+// @ is an alias to /sr
