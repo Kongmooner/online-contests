@@ -9,4 +9,8 @@
 
 export default {
   name: 'Home',
-  co
+  components: {
+
+  }
+}
+</script>
